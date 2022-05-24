@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xsi="xsi=&quot;http://www.w3.org/2001/XMLSchema-instance" xlink="http://www.w3.org/1999/xlink" schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
-    <eadid countrycode="US" mainagencycode="nbuumu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 3.4::J. Warren Perry Collection of Maria Callas Clippings and Programs)//EN">nbuumu_ubmu0003_4</eadid>
+    <eadid countrycode="US" mainagencycode="nbuumu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 3.4::J. Warren Perry Collection of Maria Callas Clippings and Programs)//EN">nbuumu_0003_4</eadid>
     <filedesc>
       <titlestmt>
         <titleproper encodinganalog="title">Finding Aid for the J. Warren Perry

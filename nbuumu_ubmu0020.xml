@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xsi="xsi=&quot;http://www.w3.org/2001/XMLSchema-instance" xlink="http://www.w3.org/1999/xlink" schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
-    <eadid countrycode="US" mainagencycode="nbuumu" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 20::Irene Haupt Photographs of June in Buffalo 2002)//EN" encodinganalog="identifier">nbuumu_ubmu0020</eadid>
+    <eadid countrycode="US" mainagencycode="nbuumu" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 20::Irene Haupt Photographs of June in Buffalo 2002)//EN" encodinganalog="identifier">nbuumu_0020</eadid>
     <filedesc>
       <titlestmt>
         <titleproper encodinganalog="title">Finding Aid for the Irene Haupt
